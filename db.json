@@ -119,6 +119,22 @@
       "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/200.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut",
       "id": 24
+    },
+    {
+      "name": "Supermon",
+      "weight": "2",
+      "sprite": "https://pm1.narvii.com/5969/6ac4ff6b2c7b309f6ba8c4cf33d28ee9129f5902_00.jpg",
+      "type": "Psychic",
+      "description": "so super",
+      "id": 25
+    },
+    {
+      "name": "Hopethisworksmon",
+      "weight": "6",
+      "sprite": "https://pm1.narvii.com/5969/6ac4ff6b2c7b309f6ba8c4cf33d28ee9129f5902_00.jpg",
+      "type": "Water",
+      "description": "fingers crossed",
+      "id": 26
     }
   ]
 }
